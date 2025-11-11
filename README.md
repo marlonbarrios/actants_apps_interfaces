@@ -1,5 +1,3 @@
-# actants_apps_interfaces
-
 # list_of_Applications/Interfaces/Experiences
 
 # 🌍 *The Tectonics of Otherness* 
