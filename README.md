@@ -1,6 +1,6 @@
 # Actants: Apps, interfaces, seeds and vectors
 
-I try to list here all the apps that I use in installions and performances! They show alonk to the ode repository and also to the live app!
+I try to list here all the apps that I use in installions and performances! They show links to code repositories and also to the live apps!
 
 ## Body Proximities
 
