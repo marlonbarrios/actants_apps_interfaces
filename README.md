@@ -1,5 +1,5 @@
 # list_of_Applications/Interfaces/Experiences
-
+# Actants: Apps,interfaces,seeds and vectors
 
 ## Pseudo Ouroboros: The Genesis of Self Interest in Gradient Descent
 
@@ -36,7 +36,7 @@
 ## Extraordinary Alien
 
 - **Model:** MediaPipeGesture Recognition  
-- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/extraordinary_alien2)  
+- [GitHub Repository with project description and code](https://github.com/marlonbarrios/extraordinary_alien2)  
 - [LIVE APP](https://marlonbarrios.github.io/extraordinary_alien2/)
 
 
@@ -48,7 +48,7 @@
 ## Entropic Haiku
 
 - **Model:** GPT-4  
-- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/entropic_haiku)  
+- [GitHub Repository with project description and code](https://github.com/marlonbarrios/entropic_haiku)  
 - [LIVE APP](https://entropic-haiku.vercel.app/)
   
 ## Conversations with a Possible Mind
@@ -64,7 +64,7 @@
 ## In Pursuit of Stolen Ghosts (GENERATIVE-INTERACTIVE VERSION AND BROWN COLORS)
 
 - **Model:** Stable Diffusion XL  
-- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/inpursuitofstolenghosts?tab=readme-ov-file)  
+- [GitHub Repository with project description and code](https://github.com/marlonbarrios/inpursuitofstolenghosts?tab=readme-ov-file)  
 - [LIVE APP](https://inpursuitoftolenghosts.vercel.app/)
 
 ## TongueZap: The Hungry Chameleon Game
@@ -76,7 +76,7 @@
 ## Bauhaus Time Traveller
 
 - **Model:** Stable Diffusion XL  
-- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/bauhaus-time-traveler)  
+- [GitHub Repository with project description and code](https://github.com/marlonbarrios/bauhaus-time-traveler)  
 - [LIVE APP](https://bauhaus-time-traveler.vercel.app/)
   
 
