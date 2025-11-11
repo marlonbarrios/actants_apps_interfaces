@@ -1,5 +1,7 @@
 # Actants: Apps, interfaces, seeds and vectors
 
+I try to list here all the apps that I use in installions and performances! They show alonk to the ode repository and also to the live app!
+
 ## Body Proximities
 
 - [GitHub Repo](https://github.com/marlonbarrios/body_proximities/)  
