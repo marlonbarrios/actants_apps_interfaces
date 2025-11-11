@@ -1,5 +1,12 @@
 # Actants: Apps, interfaces, seeds and vectors
 
+## Body Proximities
+
+- [GitHub Repo](https://github.com/marlonbarrios/body_proximities/)  
+- [LIVE APP](https://marlonbarrios.github.io/body_proximities/)
+
+https://marlonbarrios.github.io/body_proximities/
+
 ## Pseudo Ouroboros: The Genesis of Self Interest in Gradient Descent
 
 - [GitHub Repo](https://github.com/marlonbarrios/pseudo_ouroboros)  
