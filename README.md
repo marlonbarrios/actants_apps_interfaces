@@ -1,5 +1,4 @@
-# list_of_Applications/Interfaces/Experiences
-# Actants: Apps,interfaces,seeds and vectors
+# Actants: Apps, interfaces, seeds and vectors
 
 ## Pseudo Ouroboros: The Genesis of Self Interest in Gradient Descent
 
