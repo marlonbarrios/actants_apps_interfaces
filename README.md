@@ -5,31 +5,32 @@
 # 🌍 *The Tectonics of Otherness* 
 
 [**Launch App**](https://marlonbarrios.github.io/pangea_in_latent-space/)  
-[**View on GitHub**](https://github.com/marlonbarrios/pangea_in_latent-space?tab=readme-ov-file#pangea-in-latent-space)
+
+[**Code Repsitory**](https://github.com/marlonbarrios/pangea_in_latent-space)
 
 
 # 🧭 Pangea_IA — Interface Guide  
 ### Decolonial AI Platform for Conversational Exploration
 
 [**Launch App**](https://pangea-ia-bj2o2.vercel.app/?agentConfig=Pangea_IA)  
-[**View on GitHub**](https://github.com/marlonbarrios/pangea-ia?tab=readme-ov-file#pangea_ia)
+
+[**Code Repsitory**](https://github.com/marlonbarrios/pangea-ia)
 
 
  # Subtle Vectors of Otherness
  
 [**Launch App**](https://subtle-vectors-of-otherness-n6gk.vercel.app/)  
-🔗 [https://subtle-vectors-of-otherness.vercel.app/](https://subtle-vectors-of-otherness.vercel.app/)
-[**View on GitHub**](https://github.com/marlonbarrios/subtle_vectors_of_otherness?tab=readme-ov-file#subtle-vectors-of-otherness)
+
+[**Code Repsitory**](https://github.com/marlonbarrios/subtle_vectors_of_otherness)
 
 ---
 # 🌍 Pluriverse Engine  
 ### 45 Decolonial Techno-Utopias | Pluriversal Technotopias  
 *A performative AI experience within Pangea.IA*  
 
-Check it out live: [Pluriverse Engine](https://pluriverse-engine.vercel.app/)
+[Pluriverse Engine](https://pluriverse-engine.vercel.app/)
 
-[**View on GitHub**](https://github.com/marlonbarrios/pluriverse_engine)  
-[**Readme Section**](https://github.com/marlonbarrios/pluriverse_engine?tab=readme-ov-file#45-decolonial-techno-utopias–pluriverse-engine)
+[**Code Repsitory**](https://github.com/marlonbarrios/pluriverse_engine) 
 
 
 # 🧳 El Immigrante – *An Endless Tale of Memory and Loss*  
@@ -38,22 +39,24 @@ Check it out live: [Pluriverse Engine](https://pluriverse-engine.vercel.app/)
 
 [Live app](https://elinmigrante.vercel.app/)
 
-[Code Repository](https://github.com/marlonbarrios/elinmigrante)
+[**Code Repsitory**](https://github.com/marlonbarrios/elinmigrante)
 
-[Code Repository](https://github.com/marlonbarrios/elinmigrante)
+
 
 
 # 🎼 Transcriptional Fugue: Minding the Gaps  
 ### An AI-Generated Media Installation by Marlon Barrios Solano  
 
 [**Launch App**](https://fugatrancriptional-mindingthegaps.vercel.app/)  
-[**View on GitHub**](https://github.com/marlonbarrios/fugatrancriptional_mindingthegaps?tab=readme-ov-file#transcriptional-fugue-minding-the-gaps)
+
+[**View on GitHub**](https://github.com/marlonbarrios/fugatrancriptional_mindingthegaps)
 
 
 ## 👻 In Pursuit of Stolen Ghosts
 
 [**Launch App**](https://in-pursuit-of-stolen-ghosts.vercel.app/)  
-[**View on GitHub**](https://github.com/marlonbarrios/in-pursuit-of-stolen-ghosts?tab=readme-ov-file#in-pursuit-of-stoten-ghosts--duet-in-latent-space)
+
+[**View on GitHub**](https://github.com/marlonbarrios/in-pursuit-of-stolen-ghosts)
 
 
 
@@ -61,7 +64,7 @@ Check it out live: [Pluriverse Engine](https://pluriverse-engine.vercel.app/)
 ### "There is someone for you… in the future."
 
 [**Launch App**](https://proteus-umber.vercel.app/)  
-[**View on GitHub**](https://github.com/marlonbarrios/proteus?tab=readme-ov-file#proteus-trans-temporal-dating-portal)
+[**View on GitHub**](https://github.com/marlonbarrios/proteus)
 
 ---
 
@@ -78,7 +81,7 @@ Check it out live: [Pluriverse Engine](https://pluriverse-engine.vercel.app/)
 
 🌐 **[Live Application →](https://dark-enlightenment.vercel.app/)**
 
-[**View on GitHub**](https://github.com/marlonbarrios/dark_enlightenment?tab=readme-ov-file#dark-enlightenment-scroll)
+[**View on GitHub**](https://github.com/marlonbarrios/dark_enlightenment)
 
 
 
