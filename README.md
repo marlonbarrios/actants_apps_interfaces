@@ -100,7 +100,7 @@ I try to list here all the apps that I use in installions and performances! They
 ## Impossible Simplicity
 
 - **Model:** MediaPipe Pose Landmark
-- - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/impossiblesimplicity)  
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/impossiblesimplicity)  
 - [LIVE APP](https://marlonbarrios.github.io/impossiblesimplicity/)
 
   
@@ -149,9 +149,30 @@ I try to list here all the apps that I use in installions and performances! They
 - [LIVE APP](https://marlonbarrios.github.io/the_body_of_the_text/)
 
 
+---
+
+# 🌟 Laboratory of Sythetics Meaning
+
+## Machine Forgetting — Text + Voice
+
+- [GitHub Repository](https://github.com/marlonbarrios/machine_forgetting_textvoice)  
+- [LIVE APP](https://machine-forgetting-textvoice.vercel.app/)
+
+## Machine Forgetting — Only Text Version
+
+- [GitHub Repository](https://github.com/marlonbarrios/machine_forgetting_onlytextversion)  
+- [LIVE APP](https://machine-forgetting-onlytextversion.vercel.app/)
+
+## Semantic Tensegrities
+
+- [GitHub Repository](https://github.com/marlonbarrios/semantic_tensegrities)  
+- [LIVE APP](https://semantic-tensegrities.vercel.app/)
+
+---
+
 **Digretions in Latent Space (The Music Album** is a collection of 14 tracks created to support the performance lecture Born in Latent Space
 
-<img alt="Screenshot 2025-04-03 at 6 35 37 PM" src="https://github.com/user-attachments/assets/ff370dbd-fc8e-42c1-ad5f-10b1d7038af7"  alt="Screenshot 2025-03-12 at 11 04 49 PM" width="500" />
+<img alt="Screenshot 2025-04-03 at 6 35 37 PM" src="https://github.com/user-attachments/assets/ff370dbd-fc8e-42c1-ad5f-10b1d7038af7" width="500" />
 
 [ALBUM](https://marlonbarriossolano.bandcamp.com/album/digressions-in-latent-space)
 
@@ -161,86 +182,37 @@ I try to list here all the apps that I use in installions and performances! They
 ## *The Tectonics of Otherness* 
 
 [**Launch App**](https://marlonbarrios.github.io/pangea_in_latent-space/)  
-
-[**Code Repsitory**](https://github.com/marlonbarrios/pangea_in_latent-space)
+[**Code Repository**](https://github.com/marlonbarrios/pangea_in_latent-space)
 
 ## RealTimeTransformer
 
-**[Live Application →](https://realtimetransformer-r267.vercel.app/)**
-
-[**Code Repsitory**](https://github.com/marlonbarrios/realtimetransformer)
-
+**[Live Application →](https://realtimetransformer-r267.vercel.app/)**  
+[**Code Repository**](https://github.com/marlonbarrios/realtimetransformer)
 
 ## Pangea_IA — Interface Guide  
 ### Decolonial AI Platform for Conversational Exploration
 
 [**Launch App**](https://pangea-ia-bj2o2.vercel.app/?agentConfig=Pangea_IA)  
-
-[**Code Repsitory**](https://github.com/marlonbarrios/pangea-ia)
-
+[**Code Repository**](https://github.com/marlonbarrios/pangea-ia)
 
 ## Subtle Vectors of Otherness
- 
-[**Launch App**](https://subtle-vectors-of-otherness-n6gk.vercel.app/)  
 
-[**Code Repsitory**](https://github.com/marlonbarrios/subtle_vectors_of_otherness)
+[**Launch App**](https://subtle-vectors-of-otherness-n6gk.vercel.app/)  
+[**Code Repository**](https://github.com/marlonbarrios/subtle_vectors_of_otherness)
 
 ## Pluriverse Engine  
-## 45 Decolonial Techno-Utopias | Pluriversal Technotopias  
-*A performative AI experience within Pangea.IA*  
+### 45 Decolonial Techno-Utopias | Pluriversal Technotopias  
 
-[Pluriverse Engine](https://pluriverse-engine.vercel.app/)
-
-[**Code Repsitory**](https://github.com/marlonbarrios/pluriverse_engine) 
-
+[Pluriverse Engine](https://pluriverse-engine.vercel.app/)  
+[**Code Repository**](https://github.com/marlonbarrios/pluriverse_engine)
 
 ## El Immigrante – *An Endless Tale of Memory and Loss*  
+### A Contemplative Digital Installation About Memory and Migration  
 
-## A Contemplative Digital Installation About Memory and Migration  
-
-[Live app](https://elinmigrante.vercel.app/)
-
-[**Code Repsitory**](https://github.com/marlonbarrios/elinmigrante)
-
+[Live App](https://elinmigrante.vercel.app/)  
+[**Code Repository**](https://github.com/marlonbarrios/elinmigrante)
 
 ## Transcriptional Fugue: Minding the Gaps  
-### An AI-Generated Media Installation by Marlon Barrios Solano  
+### An AI-Generated Media Installation  
 
-[**Launch App**](https://fugatrancriptional-mindingthegaps.vercel.app/)  
-
-[**View on GitHub**](https://github.com/marlonbarrios/fugatrancriptional_mindingthegaps)
-
-
-## In Pursuit of Stolen Ghosts
-
-[**Launch App**](https://in-pursuit-of-stolen-ghosts.vercel.app/)  
-
-[**View on GitHub**](https://github.com/marlonbarrios/in-pursuit-of-stolen-ghosts)
-
-
-## **Proteus: Trans-Temporal Dating Portal**  
-### "There is someone for you… in the future."
-
-[**Launch App**](https://proteus-umber.vercel.app/)  
-
-[**Code Repsitory**](https://github.com/marlonbarrios/proteus)
-
-
-## *Dark Enlightment, Techno-Republic and other Vectors* Installation German Techno Synthetic Space
-
-[**Music Playlist**](https://suno.com/playlist/c8e5c323-b6d3-4ffa-9993-a0b5bfee3729)
-
-[**Video Playlist**](https://youtube.com/playlist?list=PLC2ijZ2U-avi_CB1NQFV6og2eg7ZTpWo3&si=smkFxJG4Tii0mGm6)
-
-
-# Dark Enlightenment Scroll
-
-**[Live Application →](https://dark-enlightenment.vercel.app/)**
-
-[**Code Repsitory**](https://github.com/marlonbarrios/dark_enlightenment)
-
-
-
-
-
-
+[**Launch App**](https://fugatran
