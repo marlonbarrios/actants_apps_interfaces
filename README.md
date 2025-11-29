@@ -2,6 +2,25 @@
 
 I try to list here all the apps that I use in installions and performances! They show links to code repositories and also to the live apps!
 
+# 🌟 Laboratory of Sythetic Meaning
+
+## Machine Forgetting — Text + Voice
+
+- [GitHub Repository](https://github.com/marlonbarrios/machine_forgetting_textvoice)  
+- [LIVE APP](https://machine-forgetting-textvoice.vercel.app/)
+
+## Machine Forgetting — Only Text Version
+
+- [GitHub Repository](https://github.com/marlonbarrios/machine_forgetting_onlytextversion)  
+- [LIVE APP](https://machine-forgetting-onlytextversion.vercel.app/)
+
+## Semantic Tensegrities
+
+- [GitHub Repository](https://github.com/marlonbarrios/semantic_tensegrities)  
+- [LIVE APP](https://semantic-tensegrities.vercel.app/)
+
+---
+
 ## Body Proximities
 
 - [GitHub Repo](https://github.com/marlonbarrios/body_proximities/)  
@@ -148,25 +167,6 @@ I try to list here all the apps that I use in installions and performances! They
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/the_body_of_the_text)  
 - [LIVE APP](https://marlonbarrios.github.io/the_body_of_the_text/)
 
-
----
-
-# 🌟 Laboratory of Sythetics Meaning
-
-## Machine Forgetting — Text + Voice
-
-- [GitHub Repository](https://github.com/marlonbarrios/machine_forgetting_textvoice)  
-- [LIVE APP](https://machine-forgetting-textvoice.vercel.app/)
-
-## Machine Forgetting — Only Text Version
-
-- [GitHub Repository](https://github.com/marlonbarrios/machine_forgetting_onlytextversion)  
-- [LIVE APP](https://machine-forgetting-onlytextversion.vercel.app/)
-
-## Semantic Tensegrities
-
-- [GitHub Repository](https://github.com/marlonbarrios/semantic_tensegrities)  
-- [LIVE APP](https://semantic-tensegrities.vercel.app/)
 
 ---
 
